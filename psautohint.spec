@@ -14,7 +14,7 @@ Source0:	https://github.com/adobe-type-tools/psautohint/releases/download/v%{ver
 # Source0-md5:	e276cc7c7eb837fa477629edcf4d7966
 URL:		https://github.com/adobe-type-tools/psautohint
 BuildRequires:	python3 >= 1:3.6
-BuildRequires:	python3-setuptools >= 3.6.4.0
+BuildRequires:	python3-setuptools >= 1:3.6.4.0
 BuildRequires:	python3-setuptools_scm
 %if %{with tests}
 # fonttools[ufo]
