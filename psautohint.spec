@@ -6,7 +6,7 @@ Summary:	PSAutoHint - standalone version of AFDKO's autohinter
 Summary(pl.UTF-8):	PSAutoHint - samodzielna wersja autohintera z AFDKO
 Name:		psautohint
 Version:	2.4.0
-Release:	1
+Release:	2
 License:	Apache v2.0
 Group:		Applications/Publishing
 #Source0Download: https://github.com/adobe-type-tools/psautohint/releases
